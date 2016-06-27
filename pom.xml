@@ -6,13 +6,13 @@
 
     <groupId>net.ssapia</groupId>
     <artifactId>TesouroDireto</artifactId>
-    <version>1.7</version>
+    <version>1.8-SNAPSHOT</version>
 
     <scm>
        <developerConnection>scm:git:git@github.com:ssapia/TesouroDireto.git</developerConnection>
        <connection>scm:git:git@github.com:ssapia/TesouroDireto.git</connection>
        <url>https://github.com/ssapia/TesouroDireto.git</url>
-    <tag>TesouroDireto-1.7</tag>
+    <tag>HEAD</tag>
   </scm>
 
     <dependencies>
