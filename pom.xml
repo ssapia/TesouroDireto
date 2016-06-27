@@ -63,6 +63,7 @@
 		    <configuration>
 		      <useReleaseProfile>false</useReleaseProfile>
 		      <releaseProfiles>teste</releaseProfiles>
+			<arguments>-Pteste</arguments>
 		    </configuration>
 	    </plugin>
         </plugins>
