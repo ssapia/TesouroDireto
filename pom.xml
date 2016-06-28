@@ -61,7 +61,7 @@
         	<artifactId>maven-release-plugin</artifactId>
         	<version>2.5.3</version>
 		    <configuration>
-			<arguments>-Pteste -DskipTests</arguments>
+			<arguments>-Pteste</arguments>
 		    </configuration>
 	    </plugin>
         </plugins>
